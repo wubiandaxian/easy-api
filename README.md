@@ -1,2 +1,2 @@
 # easy-api
-A easy, quickly, simple API development framework
+A easy, quickly, simple API development framework(PHP)
